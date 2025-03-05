@@ -12,7 +12,7 @@
 
 ### Проекты
 
-* **[Хакатон «ВШЭ ПСБ.ХАК](https://drive.google.com/file/d/19SbdfF1Py_4Ao2e_k_4rfSwBoVpEYBn6/view?usp=sharing)»**
+* **[Хакатон «ВШЭ ПСБ.ХАК»](https://drive.google.com/file/d/19SbdfF1Py_4Ao2e_k_4rfSwBoVpEYBn6/view?usp=sharing)**
 
   Задача: на основе данных потенциальных клиентов отеля предсказать вероятность отмены бронирования.
 
